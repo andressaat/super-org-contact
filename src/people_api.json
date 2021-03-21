@@ -1,0 +1,7 @@
+{
+    "clientId":"732976165861-snv99u2frici8i71elu0nu43ovbpl9np.apps.googleusercontent.com",
+    "client_secret": "zIIhZ02GY9Lm6wGvTjLSfECo",
+    "apiKey": "AIzaSyASP7cXpQCOBLdSCJF1Kwa48xakB_VksxY",
+    "discoveryDocs":["https://www.googleapis.com/discovery/v1/apis/people/v1/rest"],
+    "scope":"https://www.googleapis.com/auth/contacts.readonly"
+}

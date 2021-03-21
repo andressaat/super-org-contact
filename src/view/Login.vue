@@ -119,7 +119,7 @@ p a {
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: center;
     position: relative;
 }
 </style>
